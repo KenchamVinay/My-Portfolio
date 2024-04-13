@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -30,15 +30,7 @@ const description =
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
-const skillsList = [
-  "Java",
-  "Git",
-  "GitHub",
-  "AWS(Learning)",
-  "Flask",
-  "Python",
-
-];
+const skillsList = ["Java", "Git", "GitHub", "AWS(Learning)", "Flask", "Python"];
 
 /**
  * Use this to give more information about what you are passionate about,
